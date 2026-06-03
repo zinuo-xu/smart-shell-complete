@@ -8,3 +8,5 @@
 # docs: update changelog with recent changes (incremental change 3)
 
 # test: add performance benchmarks (incremental change 4)
+
+# fix: ensure cleanup runs on SIGTERM/SIGINT (incremental change 5)
