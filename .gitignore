@@ -8,4 +8,5 @@ target/
 .idea/
 .vscode/
 *.iml
+.cargo/
 
