@@ -12,3 +12,5 @@
 # fix: ensure cleanup runs on SIGTERM/SIGINT (incremental change 5)
 
 # docs: add usage examples to README (incremental change 6)
+
+# fix: add missing null check before dereference (incremental change 7)
