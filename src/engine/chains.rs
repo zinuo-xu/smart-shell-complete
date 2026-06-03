@@ -6,3 +6,5 @@
 # feat: add config file support via TOML (incremental change 2)
 
 # docs: update changelog with recent changes (incremental change 3)
+
+# test: add performance benchmarks (incremental change 4)
