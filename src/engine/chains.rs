@@ -10,3 +10,5 @@
 # test: add performance benchmarks (incremental change 4)
 
 # fix: ensure cleanup runs on SIGTERM/SIGINT (incremental change 5)
+
+# docs: add usage examples to README (incremental change 6)
